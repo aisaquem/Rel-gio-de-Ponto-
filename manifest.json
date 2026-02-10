@@ -1,0 +1,16 @@
+{
+  "name": "Chronos Ponto Inteligente",
+  "short_name": "Chronos",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "description": "Sistema de gestão de ponto eletrônico",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2928/2928752.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
